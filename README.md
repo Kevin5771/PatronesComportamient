@@ -1,6 +1,5 @@
+Enlace Presentación Canva: https://www.canva.com/design/DAGPFGYJd0I/ZjB9Te8QGE-AJoFd-flwLQ/edit?utm_content=DAGPFGYJd0I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton  
 
-Este repositorio contiene ejemplos de los 10 patrones de diseño de comportamiento en diferentes utilizamos El lenguaje de Programación Java. 
-Los patrones de diseño de comportamiento se enfocan en cómo los objetos interactúan y se comunican entre sí.
 
 ## Patrones de Diseño de Comportamiento Incluidos
 
